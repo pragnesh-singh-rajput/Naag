@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Wireshark",
+    "url": "https://2.na.dl.wireshark.org/win64/Wireshark-4.2.2-x64.exe",
+    "type": "exe",
+    "silent": true,
+    "args": "/S"
+  },
+  {
+    "name": "Process Hacker",
+    "url": "https://github.com/processhacker/processhacker/releases/download/v2.39/processhacker-2.39-setup.exe",
+    "type": "exe",
+    "silent": true,
+    "args": "/VERYSILENT /SUPPRESSMSGBOXES"
+  },
+  {
+    "name": "PEStudio",
+    "url": "https://www.winitor.com/tools/pestudio/current/pestudio.zip",
+    "type": "zip",
+    "silent": false,
+    "args": ""
+  },
+  {
+    "name": "HxD Hex Editor",
+    "url": "https://mh-nexus.de/downloads/HxDSetup.zip",
+    "type": "zip",
+    "silent": false,
+    "args": ""
+  },
+  {
+    "name": "Sysinternals Suite",
+    "url": "https://download.sysinternals.com/files/SysinternalsSuite.zip",
+    "type": "zip",
+    "silent": false,
+    "args": ""
+  },
+  {
+    "name": "YARA",
+    "url": "https://github.com/VirusTotal/yara/releases/download/v4.5.0/yara-4.5.0-2150-win64.zip",
+    "type": "zip",
+    "silent": false,
+    "args": ""
+  }
+]
